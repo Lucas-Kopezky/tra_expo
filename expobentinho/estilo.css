@@ -1,0 +1,43 @@
+*{
+margin:0px;
+padding: 0px;
+}
+
+body{
+
+height: 70vw;
+background-image: linear-gradient(45deg,green, blue);
+}
+main{
+    color: white;
+    margin: 2vw;
+    display: flex;
+    flex-direction: column;
+   
+    font-size: 1.5rem;
+}
+h1{
+    margin-left: 43vw;
+    color:white;
+    font-size: 3vw;
+}
+img{
+    margin-left: 38vw;
+}
+a{
+    
+
+    text-decoration: none;
+    color: white;
+    margin: 0 1vw 0 1vw;
+    font-size: 2vw;
+}
+header{
+  margin: 0 0 1px 0;
+    position: fixed;
+    top: 0px; 
+    background: #12a5df;
+    height: 2.3vw;
+    width: 100%;
+}
+
